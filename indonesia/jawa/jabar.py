@@ -1,1 +1,2 @@
-print("bandung")
+def ibu_kota():
+    print("bandung")

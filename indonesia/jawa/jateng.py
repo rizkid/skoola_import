@@ -1,1 +1,2 @@
-print("semarang")
+def ibu_kota():
+    print("semarang")

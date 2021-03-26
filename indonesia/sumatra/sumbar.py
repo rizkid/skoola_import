@@ -1,1 +1,2 @@
-print("padang")
+def ibu_kota():
+    print("padang")

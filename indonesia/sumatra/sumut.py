@@ -1,1 +1,2 @@
-print("medan")
+def ibu_kota():
+    print("medan")
